@@ -1,0 +1,5 @@
+{
+  "name": "PDF Sesli Okuyucu",
+  "description": "Yüklediğiniz PDF dosyalarını yapay zeka seslendirmesi ile dinlemenizi sağlayan uygulama.",
+  "requestFramePermissions": []
+}
